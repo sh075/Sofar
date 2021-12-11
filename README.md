@@ -13,11 +13,11 @@ The main goal of the research is to create a safe path for the robot to follow b
 
 
 ## uml diagram
-![Untitled Diagram.drawio](https://github.com/sh075/Sofar/blob/main/Untitled%20Diagram-Page-1.drawio.pdf)
+![uml diagram](https://github.com/sh075/Sofar/blob/main/Untitled%20Diagram-Page-1.drawio.pdf)
 
 
 ## sequential diagram
-![Untitled Diagram-Page-1.drawio](https://github.com/sh075/Sofar/blob/main/Untitled%20Diagram.drawio.pdf)
+![sequentional](https://github.com/sh075/Sofar/blob/main/Untitled%20Diagram.drawio.pdf)
 ## modules that are used
 
 # slam-gmapping
