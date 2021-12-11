@@ -4,7 +4,6 @@
 
 ## Student: Shahrzad Eskandari Majdar (S5060737)
 
-## Tutor(s): Fulvio Mastrogiovanni , mohamad Alameh, Alessandro Carfi, Simone Macciٍ
 
 
 This project is a simulation of a mobile robot that navigates autonomously in a specified environment. In this case, the robot (husky) is outfitted with a lidar sensor, a microprocessor, and a four-wheel drive system. The robot is supposed to navigate autonomously while mapping its surroundings and avoiding obstacles until it arrives at its goal.
