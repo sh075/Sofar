@@ -16,7 +16,7 @@ The main goal of the research is to create a safe path for the robot to follow b
 
 
 ## sequential diagram
-![sequentional](https://github.com/sh075/Sofar/blob/main/sequentional.png)
+![Untitled Diagram.jpg](https://github.com/sh075/Sofar/blob/main/Untitled%20Diagram.jpg)
 ## modules that are used
 
 # slam-gmapping
