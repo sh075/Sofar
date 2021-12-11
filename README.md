@@ -88,7 +88,7 @@ To launch the handshake between unity and ros
 
 for localisation the robot in the environment
 
-`roslaunch mobile_robot_navigation gmapping.launch`
+`roslaunch mobile_robot_navigation gmappimg.launch`
 
 for urdf of husky etc in rviz
 
