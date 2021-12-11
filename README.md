@@ -98,11 +98,6 @@ To plan the path and navigate the robot
 
 `roslaunch mobile_robot_navigation move2.launch`
 
-for rqt graph
-
-`rosrun rqt_graph rqt_graph`
-![rosgraph](https://github.com/sh075/Sofar/blob/main/rqt_graph.png)
-
 
 
 
