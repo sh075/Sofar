@@ -80,6 +80,7 @@ To install the package
 Git clone the package
 
 `https://github.com/sh075/Sofar`
+`https://github.com/sh075/husky`
 
 
 To launch the handshake between unity and ros
