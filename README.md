@@ -53,7 +53,7 @@ The move_base node provides a ROS interface for configuring, running, and intera
 
 Packages that need to be installed
 
-`cd /opt/ros/noetic/lib`
+
 
 `sudo apt-get install ros-noetic-move-base-msgs`
 
@@ -72,6 +72,8 @@ To install the package
 
 `sudo apt-get install ros-noetic-navigation`
 
+
+`sudo apt-get install ros-noetic-xacro`
 
 
 # Execution of the code
