@@ -79,9 +79,8 @@ To install the package
 
 Git clone the package
 
-``
+`https://github.com/sh075/Sofar`
 
-``
 
 To launch the handshake between unity and ros
 
