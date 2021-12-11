@@ -85,7 +85,7 @@ Git clone the package
 
 To launch the handshake between unity and ros
 
-`roslaunch mobile_robot_navigation_project navigation.launch`
+`roslaunch mobile_robot_navigation_project nav.launch`
 
 for localisation the robot in the environment
 
@@ -97,7 +97,7 @@ for urdf of husky etc in rviz
 
 To plan the path and navigate the robot 
 
-`roslaunch mobile_robot_navigation_project move.launch`
+`roslaunch mobile_robot_navigation_project move2.launch`
 
 for rqt graph
 
