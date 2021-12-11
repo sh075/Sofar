@@ -79,6 +79,9 @@ To install the package
 Git clone the package
 
 `https://github.com/sh075/Sofar`
+
+for additional packages
+
 `https://github.com/sh075/husky`
 
 
